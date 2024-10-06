@@ -29,7 +29,7 @@ body {
     width: 200px; /* Increased size */
     height: 200px; /* Increased size */
     background: linear-gradient(135deg, #ff007f, #ff6f61); /* Gradient for a beautiful heart */
-    animation: beat 0.667s infinite; /* Set to 90 BPM */
+    animation: beat 0.923s infinite; /* 65 BPM */
     transform: rotate(-45deg);
 }
 
